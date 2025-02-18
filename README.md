@@ -76,10 +76,3 @@ O projeto está organizado em dois diretórios principais: **core** e **treino**
   - **Descrição:** Atualiza as informações de um aluno específico.
 
 ---
-
-## Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-treinamento-alunos.git
-   cd projeto-treinamento-alunos
